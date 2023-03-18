@@ -10,4 +10,4 @@ We will be using Pandas and NumPy for this analysis. We will also be playing aro
 4. Finding the missing or null values
 5. Visualizing Heatmaps.
 
-I have wrtten an article first time about correlation on Linkedin.I am using Pandas and NumPy for this analysis. [Check it out](https://www.linkedin.com/pulse/correlation-simple-seaborn-pandas-abishek-james/)
+I have written an article about correlation on Linkedin.I am using Pandas and NumPy for this analysis. [Check it out](https://www.linkedin.com/pulse/correlation-simple-seaborn-pandas-abishek-james/)
